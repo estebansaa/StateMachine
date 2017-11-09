@@ -7,3 +7,10 @@ C:\Projects\StatePattern\AfterStatePattern\obj\Debug\AfterStatePattern.pdb
 C:\Projects\StatePattern\StatePattern\AfterStatePattern\bin\Debug\AfterStatePattern.exe.config
 C:\Projects\StatePattern\StatePattern\AfterStatePattern\obj\Debug\AfterStatePattern.exe
 C:\Projects\StatePattern\StatePattern\AfterStatePattern\obj\Debug\AfterStatePattern.pdb
+C:\PatternProjects\StatePattern\AfterStatePattern\bin\Debug\AfterStatePattern.exe.config
+C:\PatternProjects\StatePattern\AfterStatePattern\bin\Debug\AfterStatePattern.exe
+C:\PatternProjects\StatePattern\AfterStatePattern\bin\Debug\AfterStatePattern.pdb
+C:\PatternProjects\StatePattern\AfterStatePattern\obj\Debug\AfterStatePattern.csprojResolveAssemblyReference.cache
+C:\PatternProjects\StatePattern\AfterStatePattern\obj\Debug\AfterStatePattern.csproj.CoreCompileInputs.cache
+C:\PatternProjects\StatePattern\AfterStatePattern\obj\Debug\AfterStatePattern.exe
+C:\PatternProjects\StatePattern\AfterStatePattern\obj\Debug\AfterStatePattern.pdb

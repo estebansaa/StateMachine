@@ -13,6 +13,10 @@ namespace StatePattern.Domain
         private const int PARADO = 1;
         private const int EN_MARCHA = 2;
 
+        /// <summary>
+        /// Other commet
+        /// </summary>
+
         // Atributos
         private const int VELOCIDAD_MAXIMA = 200;
         private int estado = APAGADO;

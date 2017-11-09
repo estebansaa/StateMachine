@@ -9,3 +9,4 @@ C:\PatternProjects\StatePattern\StatePattern\bin\Debug\StatePattern.pdb
 C:\PatternProjects\StatePattern\StatePattern\obj\Debug\BeforeStatePattern.csproj.CoreCompileInputs.cache
 C:\PatternProjects\StatePattern\StatePattern\obj\Debug\StatePattern.exe
 C:\PatternProjects\StatePattern\StatePattern\obj\Debug\StatePattern.pdb
+C:\PatternProjects\StatePattern\StatePattern\obj\Debug\BeforeStatePattern.csprojResolveAssemblyReference.cache
