@@ -8,7 +8,7 @@ namespace StatePattern.Domain
 {
     public class VehiculoBasico
     {
-        // Estados
+        // Estados -- comments example dfdfd
         private const int APAGADO = 0;
         private const int PARADO = 1;
         private const int EN_MARCHA = 2;
